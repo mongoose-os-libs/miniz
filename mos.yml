@@ -15,8 +15,11 @@ tags:
   - compression
   - zip
 
+no_implicit_init_deps: true
+init_after: []
+
 cdefs:
   TDEFL_LESS_MEMORY: 1
   MINIZ_NO_TIME: 1
 
-manifest_version: 2017-09-29
+manifest_version: 2018-06-20
