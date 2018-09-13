@@ -14,6 +14,7 @@ tags:
   - c
   - compression
   - zip
+  - docs:misc:Miniz compression
 
 no_implicit_init_deps: true
 init_after: []
